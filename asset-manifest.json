@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/St4_project.github.io/react_upload/static/css/main.ceaccd31.chunk.css",
+    "main.js": "/St4_project.github.io/react_upload/static/js/main.91066c13.chunk.js",
+    "main.js.map": "/St4_project.github.io/react_upload/static/js/main.91066c13.chunk.js.map",
+    "runtime-main.js": "/St4_project.github.io/react_upload/static/js/runtime-main.3e45430c.js",
+    "runtime-main.js.map": "/St4_project.github.io/react_upload/static/js/runtime-main.3e45430c.js.map",
+    "static/css/2.4e498853.chunk.css": "/St4_project.github.io/react_upload/static/css/2.4e498853.chunk.css",
+    "static/js/2.af8d619f.chunk.js": "/St4_project.github.io/react_upload/static/js/2.af8d619f.chunk.js",
+    "static/js/2.af8d619f.chunk.js.map": "/St4_project.github.io/react_upload/static/js/2.af8d619f.chunk.js.map",
+    "index.html": "/St4_project.github.io/react_upload/index.html",
+    "precache-manifest.6c5bfb7f66ec3b3359d4cf7b52f6f31a.js": "/St4_project.github.io/react_upload/precache-manifest.6c5bfb7f66ec3b3359d4cf7b52f6f31a.js",
+    "service-worker.js": "/St4_project.github.io/react_upload/service-worker.js",
+    "static/css/2.4e498853.chunk.css.map": "/St4_project.github.io/react_upload/static/css/2.4e498853.chunk.css.map",
+    "static/css/main.ceaccd31.chunk.css.map": "/St4_project.github.io/react_upload/static/css/main.ceaccd31.chunk.css.map",
+    "static/js/2.af8d619f.chunk.js.LICENSE.txt": "/St4_project.github.io/react_upload/static/js/2.af8d619f.chunk.js.LICENSE.txt",
+    "static/js/main.91066c13.chunk.js.LICENSE.txt": "/St4_project.github.io/react_upload/static/js/main.91066c13.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/St4_project.github.io/react_upload/static/media/bootstrap-icons.be6df3f0.woff",
+    "static/media/ds.jpeg": "/St4_project.github.io/react_upload/static/media/ds.cafe63d7.jpeg",
+    "static/media/font-awesome.min.css": "/St4_project.github.io/react_upload/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/mw.jpg": "/St4_project.github.io/react_upload/static/media/mw.d1454ac6.jpg",
+    "static/media/sales.jpeg": "/St4_project.github.io/react_upload/static/media/sales.654d5491.jpeg",
+    "static/media/tech3.jpeg": "/St4_project.github.io/react_upload/static/media/tech3.01c29d53.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e45430c.js",
+    "static/css/2.4e498853.chunk.css",
+    "static/js/2.af8d619f.chunk.js",
+    "static/css/main.ceaccd31.chunk.css",
+    "static/js/main.91066c13.chunk.js"
+  ]
+}
